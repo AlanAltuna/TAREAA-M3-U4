@@ -1,0 +1,31 @@
+#rojo {
+    width: 100px;
+    height: 100px;
+    background-color: red; 
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+#verde {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+#azul {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+#fondo {
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
